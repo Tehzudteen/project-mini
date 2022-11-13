@@ -1,0 +1,15 @@
+D:\projects\projectmini\projectmini\bin\Debug\net6.0\projectmini.exe
+D:\projects\projectmini\projectmini\bin\Debug\net6.0\projectmini.deps.json
+D:\projects\projectmini\projectmini\bin\Debug\net6.0\projectmini.runtimeconfig.json
+D:\projects\projectmini\projectmini\bin\Debug\net6.0\projectmini.dll
+D:\projects\projectmini\projectmini\bin\Debug\net6.0\projectmini.pdb
+D:\projects\projectmini\projectmini\obj\Debug\net6.0\projectmini.csproj.AssemblyReference.cache
+D:\projects\projectmini\projectmini\obj\Debug\net6.0\projectmini.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\projectmini\projectmini\obj\Debug\net6.0\projectmini.AssemblyInfoInputs.cache
+D:\projects\projectmini\projectmini\obj\Debug\net6.0\projectmini.AssemblyInfo.cs
+D:\projects\projectmini\projectmini\obj\Debug\net6.0\projectmini.csproj.CoreCompileInputs.cache
+D:\projects\projectmini\projectmini\obj\Debug\net6.0\projectmini.dll
+D:\projects\projectmini\projectmini\obj\Debug\net6.0\refint\projectmini.dll
+D:\projects\projectmini\projectmini\obj\Debug\net6.0\projectmini.pdb
+D:\projects\projectmini\projectmini\obj\Debug\net6.0\projectmini.genruntimeconfig.cache
+D:\projects\projectmini\projectmini\obj\Debug\net6.0\ref\projectmini.dll
